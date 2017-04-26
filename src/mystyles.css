@@ -1,0 +1,65 @@
+button.noBut {
+    width: 11px;
+    height: 10px;
+    /* color: red; *//* background-color: black; */
+    font-size: 8px;
+    padding: 1px;
+}
+
+button.nots {
+    height: 10px;
+    /* color: red; *//* background-color: black; */
+    font-size: 8px;
+    padding: 1px;
+}
+
+#mdia1 {
+    background-color: #aaaaaa;
+    border: solid #000000 1px;
+}
+#mdia0 {
+    background-color: #ffffff;
+    padding: 100px;
+    margin: 100px;
+    display: none;
+/*
+    position: absolute;
+    top:10px;
+    left:10px;
+*/
+}
+
+#mrate1 {
+    font-size: 130%;
+    color: red;
+    font-weight: 900;
+}
+
+span.mlnt1 {
+    font-size: 90%;
+    color: #ffaa78;
+}
+
+span.mlrt1 {
+    padding-left: 10px;
+    font-size: 100%;
+    color: #ff3b4f;
+    font-weight: 900;
+}
+
+span.mpri1 {
+    padding-left: 10px;
+    font-size: 80%;
+    color: rgba(95, 30, 42, 0.38);
+    font-weight: 900;
+}
+
+span.mrem {
+    padding-left: 10px;
+    width: 5px;
+    height: 5px;
+    background-color: white;
+    color:black;
+    font-size: 50%;
+}
+
